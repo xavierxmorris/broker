@@ -29,7 +29,7 @@
     "sinon": "^1.17.5",
     "tap": "^12.7.0",
     "tap-only": "0.0.5",
-    "tmp": "0.0.33"
+    "tmp": "0.2.4"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -42,7 +42,7 @@
     "engine.io": "^3.4.0",
     "engine.io-client": "^3.4.0",
     "express": "^4.17.1",
-    "js-yaml": "^3.13.1",
+    "js-yaml": "^4.1.1",
     "lodash.escaperegexp": "^4.1.2",
     "lodash.mapvalues": "^4.6.0",
     "minimatch": "^3.0.4",
